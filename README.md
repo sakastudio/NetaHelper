@@ -9,3 +9,10 @@
 csvファイルで保存することができます。
 
 クローンしてソースを見る際は、Fontフォルダに入っているUnityPackageを起動してTextMeshProのフォントアセットをインポートしてください。
+
+
+使用したアセット
+裏でのキー入力検知
+https://github.com/Elringus/UnityRawInput
+ファイル選択ダイアログ
+https://github.com/gkngkc/UnityStandaloneFileBrowser
